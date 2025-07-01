@@ -1,3 +1,4 @@
+// Aqui o contador de visitantes
 const visitors = 10;
 
 const btn_pedido = document.getElementById("btn-pedido");
