@@ -1,0 +1,1 @@
+const visitors = 10;
